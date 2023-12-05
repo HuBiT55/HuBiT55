@@ -11,7 +11,7 @@
 
 - or [https://hubertprzypis.pl/projects.html](https://hubertprzypis.pl/projects.html)
 
-- 📫 How to reach me **kontakt@hubertprzypis.pl**
+- 📫 How to reach me **kontakt@hubertprzypis.pl** or **hubert.przypis.it@gmail.com**
 
 - 📄 Know about my experiences (CV) [https://hubertprzypis.pl/resume.html](https://hubertprzypis.pl/resume.html)
 
