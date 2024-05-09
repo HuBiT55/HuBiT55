@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kontakt@hubertprzypis.pl** or **hubert.przypis.it@gmail.com**
 
-- 📄 Know about my experiences (CV) [https://hubertprzypis.pl/resume.html](https://hubertprzypis.pl/resume.html)
+- 📄 Know about my experiences (CV) [https://hubertprzypis.pl/resume](https://hubertprzypis.pl/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
