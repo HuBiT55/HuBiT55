@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate and (future) java developer</h3>
+<h3 align="center">A passionate and (future) CyberSec specialist and java devr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubit55&label=Profile%20views&color=0e75b6&style=flat" alt="hubit55" /> </p>
 
-- 🔭 I’m currently working on [Panel for warehouse management](https://github.com/HuBiT55/MagazynPanel)
+- 🔭 I’m currently working on [Patient queue system](https://github.com/HuBiT55/patient_queue_system)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA** and **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuBiT55?tab=repositories](https://github.com/HuBiT55?tab=repositories)
 
-- or [https://hubertprzypis.pl/projects.html](https://hubertprzypis.pl/projects.html)
+- or [https://hubertprzypis.pl/projects](https://hubertprzypis.pl/projects)
 
 - 📫 How to reach me **kontakt@hubertprzypis.pl** or **hubert.przypis.it@gmail.com**
 
