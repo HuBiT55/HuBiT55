@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuBiT55?tab=repositories](https://github.com/HuBiT55?tab=repositories)
 
-- or [https://hubertprzypis.pl/projects](https://hubertprzypis.pl/projects)
+- or [https://hubertprzypis.pl](https://hubertprzypis.pl)
 
 - 📫 How to reach me **kontakt@hubertprzypis.pl** or **hubert.przypis.it@gmail.com**
 
