@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate and (future) CyberSec specialist and java devr</h3>
+<h3 align="center">A passionate and (future) CyberSec specialist and java dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubit55&label=Profile%20views&color=0e75b6&style=flat" alt="hubit55" /> </p>
 
