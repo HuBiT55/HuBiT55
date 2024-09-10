@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JAVA** and **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HuBiT55?tab=repositories](https://github.com/HuBiT55?tab=repositories)
+- 👨‍💻 All of my projects are available at [Gihub repo](https://github.com/HuBiT55?tab=repositories)
 
-- or [https://hubertprzypis.pl](https://hubertprzypis.pl)
+- or [My website](https://hubertprzypis.pl)
 
 - 📫 How to reach me **kontakt@hubertprzypis.pl** or **hubert.przypis.it@gmail.com**
 
